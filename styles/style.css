@@ -143,6 +143,9 @@ nav a {
     padding: 5px 10px;
     border-radius: 5px;
     background-color: #E7E7E7;
+    font-weight: 500;
+    font-size: 13px;
+    color: #424242;
 }
 
 /* love & enjoy */
@@ -220,6 +223,11 @@ nav a {
     border: 1px solid #FF900E;
     border-radius: 8px;
     padding: 45px 55px;
+}
+.facts-icon li:hover {
+    background-color: #ffd9aa;
+    border: 0;
+    transition: background-color 2s ease-in;
 }
 
 /* sponsors section  */
