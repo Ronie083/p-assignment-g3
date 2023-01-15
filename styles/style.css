@@ -235,6 +235,8 @@ nav a {
     margin-left: 240px;
     margin-right: 240px;
     margin-bottom: 140px;
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
     
 }
 
