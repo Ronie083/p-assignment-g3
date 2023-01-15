@@ -114,6 +114,37 @@ nav a {
     color: #FF900E;
 }
 
+/* Bonus section styles */
+.bonus {
+    display: flex;
+    margin: 130px 240px;
+    align-items: top;
+}
+
+.building {
+    margin-right: 100px;
+}
+.civil {
+    margin-right: 100px;
+}
+
+.bonus img {
+    width: 60px;
+    height: 60px;
+}
+
+.bonus ul {
+    display: flex;
+    list-style: none;
+}
+.bonus li {
+    margin-right: 20px;
+    border: 0 solid;
+    padding: 5px 10px;
+    border-radius: 5px;
+    background-color: #E7E7E7;
+}
+
 /* love & enjoy */
 
 .love-enjoy {
